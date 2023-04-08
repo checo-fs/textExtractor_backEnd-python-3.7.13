@@ -1,0 +1,18 @@
+# OSX folder attributes
+.DS_Store
+
+# Docker files
+.devcontainer
+
+# inference from ML training
+*.whl
+
+# paddle OCR logs
+=2.4.3
+
+# pdf->image outputs
+doc/
+pages/
+
+# python __pycache__ compiler code
+__pycache__
