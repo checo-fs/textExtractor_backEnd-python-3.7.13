@@ -11,8 +11,8 @@
 =2.4.3
 
 # pdf->image outputs
-doc/
-pages/
+src/doc/*
+src/pages/*
 
 # python __pycache__ compiler code
 __pycache__
